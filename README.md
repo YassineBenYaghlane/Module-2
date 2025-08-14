@@ -25,4 +25,5 @@ The exercises are available in `EXERCISES.md`.
 - Do your work in the `exercises/` folder.
 - Reference solutions in the `solutions/` folder if you need help or want to check your work.
 
-Note: To run a script run `python <Path to Python script>` (e.g. `python exercises/exercise_1.py`)
+Note 1: To run a script run `python <Path to Python script>` (e.g. `python exercises/exercise_1.py`)
+Note 2: Refer to the first module as a reminder of how to call an LLM Api with Langchain.
