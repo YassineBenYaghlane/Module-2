@@ -1,4 +1,4 @@
-# Day 1 Prompting - Custom Exercises
+# Exercises
 
 1. **Zero-shot Prompting:**  
    Implement a function that uses a zero-shot prompt to classify a customer support ticket as "URGENT", "NORMAL", or "LOW" priority. The function should use an LLM (via LangChain) and take the ticket text as input, returning the predicted priority as a string. Do not provide any examples in the prompt.
