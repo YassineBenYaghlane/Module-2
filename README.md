@@ -17,3 +17,12 @@ This module contains 4 hands-on exercises to practice key prompting techniques w
    ```env
    GOOGLE_API_KEY=your-key-here
    ```
+
+---
+
+The exercises are available in `EXERCISES.md`.
+
+- Do your work in the `exercises/` folder.
+- Reference solutions in the `solutions/` folder if you need help or want to check your work.
+
+Note: To run a script run `python <Path to Python script>` (e.g. `python exercises/exercise_1.py`)
